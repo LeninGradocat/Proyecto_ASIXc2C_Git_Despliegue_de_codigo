@@ -1,5 +1,4 @@
 # Proyecto_ASIXc2C_Git_Despliegue_de_codigo
----
 Este repositorio contiene toda la documentación técnica del proyecto, organizada en manuales específicos para cada área: creación de repositorio, despliegue web, diseño de base de datos y diseño web. Cada sección contiene un README con instrucciones, pasos realizados y detalles técnicos.
 
 ## Índice de Manuales
