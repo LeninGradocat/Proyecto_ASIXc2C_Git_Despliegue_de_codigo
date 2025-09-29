@@ -6,14 +6,13 @@ Se documenta el proceso realizado para la creación y configuración del reposit
 
 ## Creación del Repositorio
 
-1. Iniciar sesión en [GitHub](https://github.com).
-2. Crear un nuevo repositorio con los siguientes parámetros:
-   - **Nombre:** `Proyecto_ASIXc2C_Git_Despliegue_de_codigo`
-   - **Visibilidad:** Público o Privado según necesidad.
-   - **README:** Opcional.
-3. El repositorio queda listo para conexión vía HTTPS o SSH.
+El equipo creó un repositorio en GitHub con los siguientes parámetros:
 
-> **Nota:** Para este proyecto se utilizará **SSH** para evitar introducir usuario y contraseña repetidamente.
+- **Nombre:** `Proyecto_ASIXc2C_Git_Despliegue_de_codigo`
+- **Visibilidad:** Privado o público según los requerimientos del proyecto.
+- **README:** Se decidió no inicializarlo automáticamente.
+
+> **Nota:** Se utilizó la conexión **SSH** para facilitar la autenticación sin necesidad de usuario y contraseña.
 
 ## Clonación del Repositorio
 
