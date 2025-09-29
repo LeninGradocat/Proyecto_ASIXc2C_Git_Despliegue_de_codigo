@@ -6,10 +6,14 @@ Se documenta el proceso realizado para la creación y configuración del reposit
 
 ## Creación del Repositorio
 
-1. El equipo accedió a GitHub y seleccionó la opción **Nuevo repositorio** en el menú principal.
-2. Se asignó el nombre del repositorio como `proyecto-web` y se configuró como privado para proteger el código.
-3. Se agregó un archivo inicial `README.md` adecuado para proyectos PHP.
-4. Se creó el repositorio, obteniendo la URL para clonarlo en las máquinas locales de cada miembro del equipo.
+1. Iniciar sesión en [GitHub](https://github.com).
+2. Crear un nuevo repositorio con los siguientes parámetros:
+   - **Nombre:** `Proyecto_ASIXc2C_Git_Despliegue_de_codigo`
+   - **Visibilidad:** Público o Privado según necesidad.
+   - **README:** Opcional.
+3. El repositorio queda listo para conexión vía HTTPS o SSH.
+
+> **Nota:** Para este proyecto se utilizará **SSH** para evitar introducir usuario y contraseña repetidamente.
 
 ## Clonación del Repositorio
 
