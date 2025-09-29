@@ -10,15 +10,14 @@ El equipo creó un repositorio en GitHub con los siguientes parámetros:
 
 - **Nombre:** `Proyecto_ASIXc2C_Git_Despliegue_de_codigo`
 - **Visibilidad:** Privado o público según los requerimientos del proyecto.
-- **README:** Se decidió no inicializarlo automáticamente.
+- **README:** Se decidió inicializarlo automáticamente.
 
 > **Nota:** Se utilizó la conexión **SSH** para facilitar la autenticación sin necesidad de usuario y contraseña.
 
-## Clonación del Repositorio
+## Configuración de SSH
 
-Cada integrante del equipo clonó el repositorio utilizando el comando:
+### -Generación de clave SSH
+Se generó una clave SSH con el siguiente comando:
 
 ```bash
-git clone https://github.com/usuario/proyecto-web.git
-```
-
+ssh-keygen -t ed25519 -C "correo_del_equipo@ejemplo.com"
