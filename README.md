@@ -13,17 +13,17 @@ Este repositorio contiene toda la documentación técnica del proyecto, organiza
    - Configuración de ramas y permisos de equipo.
    - Primer commit con el código base.
 
-2. [Despliegue del Servidor Web (Apache + PHP)](manuales/servidor_web/README.md)  
+2. [Despliegue del Servidor Web (Apache + PHP)](docs/servidor_web.md)  
    - Instalación de Apache y PHP.  
    - Configuración de virtual hosts y permisos.  
    - Verificación de funcionamiento de la aplicación web.  
 
-3. [Diseño y Despliegue de la Base de Datos](manuales/bbdd/README.md)  
+3. [Diseño y Despliegue de la Base de Datos](docs/bbdd.md)  
    - Instalación de MySQL/MariaDB.  
    - Creación de bases de datos y usuarios.  
    - Importación de scripts y configuración de seguridad.  
 
-4. [Diseño y Configuración Web](manuales/diseno_web/README.md)  
+4. [Diseño y Configuración Web](docs/diseno_web.md)  
    - Estructura de carpetas y archivos del proyecto.  
    - Corrección de bugs en el código web.  
    - Arquitectura cliente-servidor y conexión con la base de datos.
