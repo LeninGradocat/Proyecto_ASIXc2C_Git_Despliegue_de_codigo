@@ -49,6 +49,6 @@ Las últimas Issues se enfocan en refactorizar el código para prevenir ataques 
 
 Una vez corregidos esos errores, ubicamos todos los archivos en la carpeta /var/www/html de nuestro servidor Apache:
 
-![Diseño_imagen:] (/images/Diseno_apache.png)
+![Diseño_imagen:] (/Proyecto_ASIXc2C_Git_Despliegue_de_codigo/docs/diseno_web.md)
 
 Tras ello la web funcionó de forma correcta y pudimos empezar a añadir usuarios.
