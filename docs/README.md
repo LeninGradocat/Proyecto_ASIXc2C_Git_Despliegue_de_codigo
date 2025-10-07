@@ -11,6 +11,7 @@ Bienvenido a la documentación técnica del proyecto. Esta carpeta contiene todo
 | [repositorio.md](repositorio.md) | Explica la creación y configuración del repositorio Git, ramas, permisos y el primer commit del código base. |
 | [servicio_web.md](servicio_web.md) | Detalla la instalación y configuración del servidor web Apache con PHP, creación de virtual hosts, permisos y verificación del funcionamiento. |
 | [bbdd.md](bbdd.md) | Contiene instrucciones para instalar MySQL/MariaDB, crear bases de datos y usuarios, importar scripts y conectar la aplicación web. |
+| [diseno_web.md](diseno_web.md) | Describe el diseño y funcionamiento de cada archivo `.php`, los errores encontrados y las correcciones aplicadas. |
 
 ---
 
