@@ -11,7 +11,6 @@ El proyecto contiene un total de 8 errores intencionales. Estos son los 5 errore
 | `add.php` | Inserción | **Issue #3** | Sentencia `INSERT` usa `*` en lugar de marcadores de posición `?`. |
 | `delete.php`| Eliminación | **Issue #4** | Sentencia `DELETE` usa `DELETE * FROM` en lugar de `DELETE FROM`. |
 | `edit.php` | Edición | **Issue #5** | Sentencia `UPDATE` tiene la sintaxis desordenada (falta `SET`). |
-| `otros` | Varios | **Issues #6, #7, #8** | (Tres errores de sintaxis o lógica menores aún por documentar). |
 
 ## 4.2. Correcciones Realizadas (Flujo GitHub Issues)
 
@@ -41,5 +40,8 @@ Se utiliza el flujo de trabajo de Git (ramas, commits, Pull Requests) para resol
 | :--- | :--- | :--- |
 | `edit.php` | `$sql = "UPDATE users WHERE name=?, email=? WHERE id=?";` | `$sql = "UPDATE users SET name=?, email=? WHERE id=?";` |
 
-Una vez corregidos esos cambios, ubicamos todos los archivos en la carpeta /var/www/html de nuestro servidor Apache:
-![Diseño: ](../images/Diseno_apache.png)
+Una vez corregidos esos errores, ubicamos todos los archivos en la carpeta /var/www/html de nuestro servidor Apache:
+
+![Diseño:] (../images/Diseno_apache.png)
+
+Tras ello la web funcionó de forma correcta y pudimos empezar a añadir usuarios.
