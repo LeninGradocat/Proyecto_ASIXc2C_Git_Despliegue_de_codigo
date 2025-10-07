@@ -8,7 +8,7 @@ Este repositorio contiene toda la documentación técnica del proyecto, organiza
 
 ## Índice de Manuales
 
-1. [Creación del Repositorio Git](manuales/repositorio/README.md)  
+1. [Creación del Repositorio Git](docs/repositorio.md)  
    - Descripción del proceso de creación del repositorio en GitHub/GitLab/Bitbucket.
    - Configuración de ramas y permisos de equipo.
    - Primer commit con el código base.
