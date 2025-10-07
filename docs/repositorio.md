@@ -17,7 +17,10 @@ El equipo creó un repositorio en GitHub con los siguientes parámetros:
 ## Configuración de SSH
 
 ### -Generación de clave SSH
+
 Se generó una clave SSH con el siguiente comando:
 
 ```bash
 ssh-keygen -t ed25519 -C "correo_del_equipo@ejemplo.com"
+
+
