@@ -18,7 +18,7 @@ El equipo creó un repositorio en GitHub con los siguientes parámetros:
 
 ## Configuración de SSH
 
-### -Generación de clave SSH
+### Generación de clave SSH
 Se generó una clave SSH para autenticación segura sin necesidad de ingresar usuario/contraseña, con el siguiente comando:
 
 ```bash
