@@ -11,11 +11,7 @@ if (isset($_GET['id'])) {
     $result = $conn->query("SELECT * FROM users WHERE id=$id");
 105
     $user = $result->fetch_assoc();
-106
-}
-107
-​
-108
+
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 109
     $id    = (int)$_POST['id'];
