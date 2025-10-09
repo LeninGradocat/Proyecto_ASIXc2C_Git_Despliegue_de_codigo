@@ -58,8 +58,9 @@ Al intentar acceder a la aplicación después del despliegue, se confirma un fal
 
 ![](../images/error_index_php.png)
 
-| Original: `method="posts"` | Correcto: `method="post"` |
-| :--- | :--- | :--- |
+| Original | Correcto |
+| :--- | :--- |
+| `method="posts"` | `method="post"` |
 
 ![Nuestro código: ](../images/Solucio_index_php.png)
 
