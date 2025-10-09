@@ -44,9 +44,9 @@ Para permitir que Apache ejecute código PHP, se instala el módulo libapache2-m
 ```bash
 sudo apt install php libapache2-mod-php php-mysql -y
 ```
-- php: intérprete principal de PHP.
-- libapache2-mod-php: permite a Apache procesar archivos PHP.
-- php-mysql: permite la conexión con bases de datos MySQL o MariaDB.
+- `php`: intérprete principal de PHP.
+- `libapache2-mod-php`: permite a Apache procesar archivos PHP.
+- `php-mysql`: permite la conexión con bases de datos MySQL o MariaDB.
 
 ## 2.2. Despliegue del Código Base
 
