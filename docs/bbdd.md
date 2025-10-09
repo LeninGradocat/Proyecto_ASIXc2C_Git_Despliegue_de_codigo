@@ -90,3 +90,5 @@ Ubica los archivos PHP en la carpeta correspondiente de tu servidor Apache, por 
 
 ![Diseño Apache](../images/Diseno_apache.png)
 
+[⬅ Volver a Documentación](README.md)
+
