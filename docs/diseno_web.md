@@ -52,3 +52,5 @@ Una vez corregidos esos errores, ubicamos todos los archivos en la carpeta /var/
 ![Diseño Apache](../images/Diseno_apache.png)
 
 Tras ello la web funcionó de forma correcta y pudimos empezar a añadir usuarios.
+
+[⬅ Volver a Documentación](README.md)
