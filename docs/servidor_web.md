@@ -8,7 +8,6 @@ Completamos la instalación de la pila LAMP (Linux, Apache, MySQL, PHP) en el Ub
 | :--- | :--- | :--- |
 | **Servidor Web** | `apache2` | Correcto (`active (running)`) |
 | **PHP** | `php libapache2-mod-php php-mysql` | Correcto (Verificado con `info.php`) |
-| **Base de Datos** | `mariadb-server` (o `mysql-server`) | Correcto (`active (running)`) |
 
 Se configuró la red con IP estática ***(`192.168.122.2/22`)***
 
