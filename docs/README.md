@@ -41,3 +41,4 @@ Bienvenido a la documentación técnica del proyecto. Esta carpeta contiene todo
 - Resalta cambios importantes o notas para futuros colaboradores usando emojis o **negritas**.  
 - Aprovecha los bloques de código para copiar comandos de instalación o configuración sin errores.  
 
+[⬅ Volver al índice principal](../README.md)
