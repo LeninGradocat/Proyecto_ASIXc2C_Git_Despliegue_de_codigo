@@ -14,7 +14,7 @@ El equipo creó un repositorio en GitHub con los siguientes parámetros:
 
 > **Nota:** Se utilizó la conexión **SSH** para facilitar la autenticación sin necesidad de usuario y contraseña.
 
-
+![Repositorio Git](images/Repositorio_captura.png)
 
 ## Configuración de SSH
 
