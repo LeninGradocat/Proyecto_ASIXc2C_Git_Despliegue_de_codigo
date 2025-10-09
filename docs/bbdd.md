@@ -6,7 +6,7 @@ Esta guía explica cómo instalar MySQL, crear y probar usuarios, y conectar tu 
 
 ## 1. Instalación de MySQL
 
-Instala MySQL en tu servidor. Puedes descargar el instalador oficial y seguir el asistente de instalación.
+Instala MySQL en tu servidor.instalador oficial y seguir el asistente de instalación.
 
 ![Instalación MySQL](../images/installacion_mysql.png)
 
@@ -91,6 +91,7 @@ Edita el usuario "juan" para asegurarte de que los cambios se guardan:
 Ubica los archivos PHP en la carpeta correspondiente de tu servidor Apache, por ejemplo `/var/www/html`.
 
 ![Diseño Apache](../images/Diseno_apache.png)
+
 
 ---
 
