@@ -31,4 +31,7 @@ Correcto: method="post"
 
 ```bash
 curl http://localhost/
+````
+
+[⬅ Volver a Documentación](README.md)
 
