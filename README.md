@@ -1,6 +1,10 @@
 # Documentación del Proyecto: Gestión del Repositorio GitHub
 
----
+Integrantes del proyecto:
+- Erick Garcia
+- Spandan Khadka
+- Carlos Rodriguez
+- Fransesc Martínez
 
 Este repositorio contiene toda la documentación técnica del proyecto, organizada en manuales específicos para cada área: creación de repositorio, despliegue web, diseño de base de datos y diseño web. Cada sección contiene un README con instrucciones, pasos realizados y detalles técnicos.
 
