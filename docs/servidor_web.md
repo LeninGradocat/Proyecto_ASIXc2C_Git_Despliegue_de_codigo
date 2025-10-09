@@ -19,7 +19,7 @@ El código del proyecto `app/` fue clonado y copiado a la raíz del servidor (`/
 ## 2.3. Verificación Inicial de Fallo (Issue #1)
 
 Al intentar acceder a la aplicación después del despliegue, se confirma un fallo de conexión a la base de datos a causa de un error en el archivo index.php:
-(<../images/Error index_php.png>)
+(../images/Error index_php.png)
 
 Original: method="posts"
 
